@@ -1,5 +1,5 @@
 <?php
-$buah = array("apel","pisang","ceri");
+$buah = array("apel", "pisang", "ceri");
 $hasil11 = print_r($buah, true);
 $hasil12 = print_r($buah, false);
 
