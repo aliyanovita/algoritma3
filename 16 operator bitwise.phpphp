@@ -33,3 +33,4 @@ echo "$a >> $b = $c";
 echo "<br>";
 var_dump ("$a >> $b = $c");
 echo "<hr>";
+echo "<p><strong>By:Aliya novita";
