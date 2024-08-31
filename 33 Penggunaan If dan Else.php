@@ -7,3 +7,4 @@ if ($umur >= 17) {
 } else {
     echo "Kamu belum cukup umur.";
 }
+echo "<p><strong>By:Aliya novita";
